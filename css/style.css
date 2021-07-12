@@ -1,0 +1,155 @@
+
+.header{
+    background-color: #e9e9e9 !important;
+}
+
+.nav-item .nav-link{
+
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0px 8px;
+text-transform: uppercase !important;
+transition: .5s;
+}
+
+.active:hover{
+    color: #10c9c3 !important;
+}
+
+.despo{
+    height: 570px !important;
+}
+
+.despo .hero{
+    padding-top: 90px !important;
+   
+}
+
+@media screen and (max-width:550px) {
+
+    .hero{
+        text-align: center !important;
+    }
+
+
+    .lorem{
+        width: auto !important;
+    }
+
+    .btn-1{
+        width: 100% !important;
+    }
+    
+}
+
+.btn-1{
+    color: white !important;
+    background-color: #10c9c3 !important;
+    padding: 12px 30px !important;
+     margin-top: 30px !important;
+     font-size: 14px;
+     font-weight: 700;
+}
+
+/* ################ main part start   ################### */
+
+
+/* seco 1 ############## */
+
+@media screen and (max-width:550px) {
+    .txt1{
+        width: auto !important;
+
+    }
+
+  
+}
+
+/* seco 1 ############## */
+
+
+/* about1 ############ */
+
+@media screen and (max-width:550px) {
+    .txt2{
+        width: 100% !important;
+
+    }
+
+  
+}
+
+/* about1 ############ */
+
+/* about4 ############ */
+
+@media screen and (max-width:550px) {
+    .txt3{
+        width: 100% !important;
+
+    }
+
+  
+}
+
+/* about4 ############ */
+
+
+
+
+/* seco 3 ############## */
+
+@media screen and (max-width:550px) {
+    .txt4{
+        width: auto !important;
+
+    }
+
+  
+}
+
+/* seco 3 ############## */
+
+
+/* seco 4 ############## */
+
+#seco4 .bx{
+    font-size: 50px !important;
+    color: #8b8b8b !important;
+}
+
+/* seco 4 ############## */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
